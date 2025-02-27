@@ -1,2 +1,2 @@
 # Trabajos-de-clase
-Esto es lo que hago en clase :)
+Estos son mis trabajos realizados en clase de Estructuras computacionales :)
